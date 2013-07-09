@@ -12,4 +12,4 @@
 
 ### 4,经常使用不同的办法来解决同一个问题,可以拓宽视野,熟悉更多的命令.
 
-### 5,学习快速编码,[快速编码教程][http://unix-school.blogspot.in/2011/08/shell-script-to-do-shell-scripting.html] ,可惜在墙内,看不了.
+### 5,学习快速编码,[快速编码教程](http://unix-school.blogspot.in/2011/08/shell-script-to-do-shell-scripting.html) ,可惜在墙内,看不了.
