@@ -9,3 +9,7 @@
 ### 但是如果file的行数很多,就会带来一些性能问题,其实我们可以这样做:
   sed -n '1p;1q' file
 ### 也就是说 读完第一条就退出.
+
+### 4,经常使用不同的办法来解决同一个问题,可以拓宽视野,熟悉更多的命令.
+
+### 5,学习快速编码,[快速编码教程][http://unix-school.blogspot.in/2011/08/shell-script-to-do-shell-scripting.html] ,可惜在墙内,看不了.
