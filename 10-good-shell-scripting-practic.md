@@ -17,8 +17,8 @@
 ### 6,多使用内部命令 ,[内部命令教程](http://unix-school.blogspot.in/2012/03/internal-vs-external-commands.html) 可惜啊,人在墙内,看不了.内部命令比外部命令的效率更高.
 
 ### 7,没有必要使用 `cat` 命令
-  cat file | grep 123
-  grep 123 file
+    cat file | grep 123
+    grep 123 file
   
 ### 8,仔细阅读错误信息,这样才能更好的定位错误.
 
