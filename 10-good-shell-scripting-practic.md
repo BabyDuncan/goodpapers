@@ -13,3 +13,15 @@
 ### 4,经常使用不同的办法来解决同一个问题,可以拓宽视野,熟悉更多的命令.
 
 ### 5,学习快速编码,[快速编码教程](http://unix-school.blogspot.in/2011/08/shell-script-to-do-shell-scripting.html) ,可惜在墙内,看不了.
+
+### 6,多使用内部命令 ,[内部命令教程](http://unix-school.blogspot.in/2012/03/internal-vs-external-commands.html) 可惜啊,人在墙内,看不了.内部命令比外部命令的效率更高.
+
+### 7,没有必要使用 `cat` 命令
+  cat file | grep 123
+  grep 123 file
+  
+### 8,仔细阅读错误信息,这样才能更好的定位错误.
+
+### 9,尽量避免臃肿的命令,使代码美观.
+
+### 10,为代码添加详细的注释.
